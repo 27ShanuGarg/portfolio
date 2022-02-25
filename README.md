@@ -1,5 +1,5 @@
-# portfolio
-Portfolio Description
+# Portfolio
+<!-- Portfolio Description -->
 
 Data Science Associate with 3+ years of rich experience in Natural Language Processing and in Machine Learning. 
 Skilled in modelling, statistical, mathematical, and other analytical techniques. 
